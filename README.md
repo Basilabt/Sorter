@@ -1,6 +1,6 @@
 # Sorter
 
-[![Developer](https://img.shields.io/badge/Developer-YourName-crimson)](https://github.com/Basilabt)
+[![Developer](https://img.shields.io/badge/Developer-Basilabt-crimson)](https://github.com/Basilabt)
 ![Language](https://img.shields.io/badge/language-C++-blue)
 ![Header-Only](https://img.shields.io/badge/library-header--only-brightgreen)
 
